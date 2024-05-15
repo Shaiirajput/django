@@ -1,5 +1,8 @@
 #this is renderer file 
-#you should check 
+<<<<<<< HEAD
+
+=======
+>>>>>>> main
 from rest_framework import renderers
 import json
 class UserRenderer(renderers.JSONRenderer):
